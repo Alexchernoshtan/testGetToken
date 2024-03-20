@@ -1,0 +1,51 @@
+{
+  "name": "John Doe",
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@example.com",
+  "externalId": "123456",
+  "isActive": true,
+  "language": "en-US",
+  "accountData": [
+    {
+      "type": 0,
+      "name": "Acme Corporation",
+      "mobilePhone": "+1 334-123-4567",
+      "email": "info@acme.com",
+      "alpha3Code": "USA",
+      "externalId": "7890",
+      "isActiveCompany": true,
+      "identifier": [
+        {
+          "value": "123-45-6789",
+          "type": "SSN"
+        }
+      ],
+      "companyIndustry": "Oilseed and Grain Combination Farming",
+      "annualRevenue": "500,000",
+      "numberOfBusinessLocations": "1",
+      "numberOfEmployees": "20",
+      "address": {
+        "street": "13785 Research Blvd",
+        "streetNumber": "Suite 150",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip": "10000",
+        "addressType": "1",
+        "countryIsoCode": 840
+      },
+      "phones": [
+        {
+          "countryCode": 840,
+          "cityOrAreaCode": 334,
+          "localNumber": 1234567,
+          "phoneTypeName": "1"
+        }
+      ]
+    }
+  ],
+  "additionalData": {
+    "favoriteColor": "blue",
+    "favoriteFood": "pizza"
+  },
+}

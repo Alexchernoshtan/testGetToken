@@ -1,51 +1,143 @@
 {
-  "name": "John Doe",
-  "firstName": "John",
-  "lastName": "Doe",
-  "email": "john.doe@example.com",
-  "externalId": "123456",
-  "isActive": true,
-  "language": "en-US",
-  "accountData": [
-    {
-      "type": 0,
-      "name": "Acme Corporation",
-      "mobilePhone": "+1 334-123-4567",
-      "email": "info@acme.com",
-      "alpha3Code": "USA",
-      "externalId": "7890",
-      "isActiveCompany": true,
-      "identifier": [
-        {
-          "value": "123-45-6789",
-          "type": "SSN"
+    "name": "Adelaide Holmes",
+    "email": "adelaide.holmes@mailinator.com",
+    "firstName": "Adelaide",
+    "lastName": "Holmes",
+    "externalId": "CC-185",
+    "isActive": true,
+    "accountData": [
+      {
+        "type": 0,
+        "name": "McKesson Corporation",
+        "mobilePhone": "19758198776",
+        "email": "adelaide.holmes@mailinator.com",
+        "alpha3Code": "USA",
+        "externalId": "3e014c77-94b0-4599-925d-ff4fed48810f",
+        "isActiveCompany": true,
+        "identifier": [
+          {
+            "value": "620885768",
+            "type": "SSN"
+          },
+          {
+            "value": "620885768",
+            "type": "EIN"
+          }
+        ],
+        "companyIndustry": "Oilseed and Grain Combination Farming",
+        "annualRevenue": "100,000",
+        "numberOfBusinessLocations": "2",
+        "numberOfEmployees": "10",
+        "address": {
+          "addressType": "1",
+          "countryIsoCode": 840
         }
-      ],
-      "companyIndustry": "Oilseed and Grain Combination Farming",
-      "annualRevenue": "500,000",
-      "numberOfBusinessLocations": "1",
-      "numberOfEmployees": "20",
-      "address": {
-        "street": "13785 Research Blvd",
-        "streetNumber": "Suite 150",
-        "city": "Montgomery",
-        "state": "AL",
-        "zip": "10000",
-        "addressType": "1",
-        "countryIsoCode": 840
       },
-      "phones": [
-        {
-          "countryCode": 840,
-          "cityOrAreaCode": 334,
-          "localNumber": 1234567,
-          "phoneTypeName": "1"
+      {
+        "type": 0,
+        "name": "Anthem, Inc.",
+        "mobilePhone": "19515685986",
+        "email": "adelaide.holmes@mailinator.com",
+        "alpha3Code": "USA",
+        "externalId": "7a9b440b-513e-4aa8-9e99-b627ca8ab4ba",
+        "isActiveCompany": true,
+        "identifier": [
+          {
+            "value": "609308207",
+            "type": "SSN"
+          },
+          {
+            "value": "609308207",
+            "type": "EIN"
+          }
+        ],
+        "companyIndustry": "Oilseed and Grain Combination Farming",
+        "annualRevenue": "100,000",
+        "numberOfBusinessLocations": "2",
+        "numberOfEmployees": "10",
+        "address": {
+          "street": "Lane1",
+          "streetNumber": "342324",
+          "addressType": "1",
+          "countryIsoCode": 840
         }
-      ]
-    }
-  ],
-  "additionalData": {
-    "favoriteColor": "blue",
-    "favoriteFood": "pizza"
+      },
+      {
+        "type": 0,
+        "name": "International Flavors & Fragrances Inc.",
+        "mobilePhone": "17132708465",
+        "email": "adelaide.holmes@mailinator.com",
+        "alpha3Code": "USA",
+        "externalId": "2e158e4a-fe16-4d15-ab1f-810c7d6e32ba",
+        "isActiveCompany": true,
+        "identifier": [
+          {
+            "value": "516800585",
+            "type": "SSN"
+          },
+          {
+            "value": "516800585",
+            "type": "EIN"
+          }
+        ],
+        "companyIndustry": "Oilseed and Grain Combination Farming",
+        "annualRevenue": "100,000",
+        "numberOfBusinessLocations": "2",
+        "numberOfEmployees": "10",
+        "address": {
+          "addressType": "1",
+          "countryIsoCode": 840
+        }
+      },
+      {
+        "type": 0,
+        "name": "Dominion Resources, Inc.",
+        "mobilePhone": "18739135019",
+        "email": "adelaide.holmes@mailinator.com",
+        "alpha3Code": "USA",
+        "externalId": "4e43c103-4577-4bd9-b5a7-0d695926272d",
+        "isActiveCompany": true,
+        "identifier": [
+          {
+            "value": "213640940",
+            "type": "SSN"
+          },
+          {
+            "value": "213640940",
+            "type": "EIN"
+          }
+        ],
+        "companyIndustry": "Oilseed and Grain Combination Farming",
+        "annualRevenue": "100,000",
+        "numberOfBusinessLocations": "2",
+        "numberOfEmployees": "10",
+        "address": {
+          "addressType": "1",
+          "countryIsoCode": 840
+        }
+      },
+      {
+        "type": 0,
+        "email": "adelaide.holmes@mailinator.com",
+        "alpha3Code": "USA",
+        "externalId": "e1dc1fc7-5ebf-4d7e-ab92-917d79df5337",
+        "isActiveCompany": true,
+        "identifier": [
+          {
+            "type": "SSN"
+          },
+          {
+            "type": "EIN"
+          }
+        ],
+        "companyIndustry": "Oilseed and Grain Combination Farming",
+        "annualRevenue": "100,000",
+        "numberOfBusinessLocations": "2",
+        "numberOfEmployees": "10",
+        "address": {
+          "addressType": "1",
+          "countryIsoCode": 840
+        }
+      }
+    ]
   }
-}
